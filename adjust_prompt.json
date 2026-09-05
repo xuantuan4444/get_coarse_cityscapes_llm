@@ -1,0 +1,86 @@
+{
+  "sidewalk": [
+    "paved walkway",
+    "pedestrian path",
+    "concrete curb",
+    "footway"
+  ],
+  "bus": [
+    "city bus",
+    "public coach",
+    "school bus",
+    "minibus"
+  ],
+  "vegetation": [
+    "tree",
+    "hedge",
+    "bush",
+    "shrub"
+  ],
+  "bicycle": [
+    "bicycle",
+    "bike",
+    "parked bicycle",
+    "unridden bike"
+  ],
+  "motorcycle": [
+    "motorbike",
+    "moped",
+    "scooter",
+    "parked motorcycle"
+  ],
+  "person": [
+    "pedestrian",
+    "standing person",
+    "sitting person",
+    "toddler"
+  ],
+  "traffic sign": [
+    "speed sign",
+    "parking sign",
+    "stop sign",
+    "warning sign"
+  ],
+  "traffic light": [
+    "traffic signal",
+    "traffic light",
+    "signal box",
+    "crossing signal"
+  ],
+  "pole": [
+    "sign pole",
+    "light pole",
+    "metal post",
+    "utility pole"
+  ],
+  "fence": [
+    "chain fence",
+    "wooden fence",
+    "metal fence",
+    "picket fence"
+  ],
+  "wall": [
+    "brick wall",
+    "stone wall",
+    "concrete wall",
+    "standalone wall"
+  ],
+  "train": [
+    "passenger train",
+    "freight train",
+    "subway train",
+    "tram"
+  ],
+  "rider": [
+    "bicyclist",
+    "motorcyclist",
+    "scooter rider",
+    "skateboarder"
+  ],
+  "terrain": [
+    "grass",
+    "lawn",
+    "bare soil",
+    "sand"
+  ]
+}

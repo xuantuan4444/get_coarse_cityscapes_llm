@@ -1,0 +1,20 @@
+# Install in this order (SAM3 first, since it pulls its own transformers/etc. via --no-deps
+# and needs to see a matching torch already, or be installed before torch is pinned).
+#
+#   pip install torch torchvision            # pick the build matching this VM's CUDA driver
+#   pip install 'git+https://github.com/facebookresearch/sam3.git' --no-deps
+#   pip install iopath ftfy portalocker
+#   pip install -r requirements_get_coarse_city_llm.txt
+torch
+torchvision
+
+numpy>=1.26,<2
+
+iopath>=0.1.10
+ftfy==6.1.1
+portalocker
+
+pillow
+tqdm
+matplotlib
+

@@ -31,7 +31,7 @@ CITYSCAPES_TRAIN_ROOT = CITYSCAPES_ROOT / "leftImg8bit_trainvaltest" / "leftImg8
 CITYSCAPES_GT_ROOT = CITYSCAPES_ROOT / "gtFine_trainvaltest" / "gtFine" / "train"
 
 SAM3_CKPT = PROJECT_ROOT / "weight_sam3" / "sam3.pt"
-ADJUST_PROMPT_PATH = PROJECT_ROOT / "adjust_prompt.json"
+ADJUST_PROMPT_PATH = PROJECT_ROOT / "adjust_prompt_city_v3.json"
 
 # Output: coarse mask cache + its zip, named for this arm (city / LLM) so it never collides with
 # the no-LLM or VOC cache directories if those are ever run from a sibling project folder.

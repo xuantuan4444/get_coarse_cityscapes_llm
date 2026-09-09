@@ -17,4 +17,4 @@ portalocker
 pillow
 tqdm
 matplotlib
-
+albumentations

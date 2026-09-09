@@ -1,15 +1,13 @@
 {
   "sidewalk": [
-    "paved walkway",
-    "pedestrian path",
-    "concrete curb",
+    "sidewalk",
     "footway"
   ],
   "bus": [
+    "bus",
     "city bus",
-    "public coach",
     "school bus",
-    "minibus"
+    "mini bus"
   ],
   "vegetation": [
     "tree",
@@ -19,55 +17,43 @@
   ],
   "bicycle": [
     "bicycle",
-    "bike",
-    "parked bicycle",
-    "unridden bike"
+    "bike"
   ],
   "motorcycle": [
+    "motorcycle",
     "motorbike",
-    "moped",
-    "scooter",
-    "parked motorcycle"
+    "scooter"
   ],
   "person": [
     "pedestrian",
-    "standing person",
-    "sitting person",
-    "toddler"
+    "person walking",
+    "person standing",
+    "person sitting"
   ],
   "traffic sign": [
-    "speed sign",
-    "parking sign",
-    "stop sign",
-    "warning sign"
+    "traffic sign",
+    "speed limit sign",
+    "parking sign"
   ],
   "traffic light": [
-    "traffic signal",
     "traffic light",
-    "signal box",
-    "crossing signal"
+    "traffic light box"
   ],
   "pole": [
-    "sign pole",
-    "light pole",
-    "metal post",
+    "pole",
     "utility pole"
   ],
   "fence": [
-    "chain fence",
-    "wooden fence",
-    "metal fence",
-    "picket fence"
+    "fence",
+    "chain-link fence"
   ],
   "wall": [
-    "brick wall",
-    "stone wall",
-    "concrete wall",
-    "standalone wall"
+    "wall",
+    "freestanding wall"
   ],
   "train": [
+    "train",
     "passenger train",
-    "freight train",
     "subway train",
     "tram"
   ],
